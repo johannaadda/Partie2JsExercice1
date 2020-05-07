@@ -1,0 +1,16 @@
+.container{
+  height: 10vh;
+  background-color: black;
+  color: white;
+  justify-content: center;
+  text-align: center;
+  border-bottom: 50rem;
+}
+.AnimationImage p{
+    height: 25vh;
+    background-color: black;
+    text-align: center;
+    padding: 5em;
+    font-size: 10px;
+    word-spacing: 1px;;
+}
